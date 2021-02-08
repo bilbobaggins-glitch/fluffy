@@ -8,6 +8,6 @@ Não foi utilizado nenhum framework. Excetuando-se a biblioteca PhpMailer para a
 
  - Carlos - AJAX (JS + PHP), JSON, PHP e MySQL
 
- - Gustavo Kimura - Game Engine em Javascript
+ - Gustavo - Game Engine em Javascript
 
- - Jeremias Miguel - Estrutura de páginas e estilização. HTML e CSS
+ - Jeremias - Estrutura de páginas e estilização. HTML e CSS
