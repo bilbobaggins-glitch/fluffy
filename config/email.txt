@@ -1,0 +1,5 @@
+servidor=smtp.gmail.com
+usuario=fluffyequipe@gmail.com
+senha=q1w2.aqsw
+nome=Fluffy_Equipe
+seguranca_protocolo=ssl
